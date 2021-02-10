@@ -49,3 +49,6 @@ brew install --cask docker
 brew install htop
 brew install jq
 brew install pyenv
+brew install bees-hive/hive/pem
+brew install xz
+brew install python3
