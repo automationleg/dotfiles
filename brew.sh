@@ -40,9 +40,12 @@ brew install tree
 brew cleanup
 
 # install my custom apps
+brew install zsh
 brew install --cask iterm2
 brew install --cask spotify
 brew install --cask pycharm
+brew install --cask google-chrome
+brew install --cask docker
 brew install htop
 brew install jq
 brew install pyenv
