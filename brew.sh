@@ -53,3 +53,4 @@ brew install bees-hive/hive/pem
 brew install xz
 brew install python3
 brew install direnv
+brew install tmux
