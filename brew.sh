@@ -54,3 +54,8 @@ brew install xz
 brew install python3
 brew install direnv
 brew install tmux
+
+# install oracle client
+brew tap InstantClientTap/instantclient
+brew install instantclient-basic
+brew install instantclient-sqlplus
